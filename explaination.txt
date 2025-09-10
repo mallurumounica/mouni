@@ -1,0 +1,20 @@
+
+The code starts with <!DOCTYPE html> which defines it as an HTML5 document.
+
+Inside <head>, metadata and CSS styles are included to make the form look neat.
+
+The <body> contains a centered form styled as a booking box.
+
+A heading <h2> displays “Room Booking” at the top.
+
+Labels and input fields collect user details like name, email, and phone.
+
+Date inputs (<input type="date">) let the user select check-in and check-out dates.
+
+A dropdown <select> allows the user to choose the room type (single, double, suite).
+
+A number input collects how many guests will stay.
+
+A “Book Now” button submits the form data.
+
+Currently, this form is only frontend—backend is needed to save or process bookings.
